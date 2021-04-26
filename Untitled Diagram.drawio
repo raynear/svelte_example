@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T06:34:46.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" version="14.6.6" etag="Mud0yoJ22dovN9hJ8Fh0" type="github"><diagram id="owNdIEo9sFAOze3Iyf8S">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-26T07:03:22.551Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="JgxtisD25h_V6DWyNMia" version="14.6.6" type="github">
+  <diagram id="owNdIEo9sFAOze3Iyf8S" name="Page-1">
+    <mxGraphModel dx="858" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="480" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="360" width="510" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-2" value="Active ETF" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-19">
+          <mxGeometry width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-3" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-2">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-4" value="A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-3">
+          <mxGeometry width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-5" value="50%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-3">
+          <mxGeometry x="40" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-2">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-7" value="B" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-6">
+          <mxGeometry width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-8" value="30%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-6">
+          <mxGeometry x="40" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-2">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-10" value="C" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-9">
+          <mxGeometry width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-11" value="20%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-9">
+          <mxGeometry x="40" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-15" value="" style="group" vertex="1" connectable="0" parent="xik6Tov1Lk0O5G3umFXC-19">
+          <mxGeometry x="390" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-15">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-14" value="DEX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-15">
+          <mxGeometry x="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-16" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-19">
+          <mxGeometry x="180" y="40" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-17" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-19">
+          <mxGeometry x="70" y="250" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-18" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-19">
+          <mxGeometry x="75" y="130" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-20" value="Ether 입금&lt;br&gt;ETF Token 받음" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-19">
+          <mxGeometry x="105" y="175" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-21" value="매주 Rebalancing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="xik6Tov1Lk0O5G3umFXC-19">
+          <mxGeometry x="230" y="20" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-22" value="입금 되면 해당 금액에 맞춰 DEX를 통해 Token 사고&lt;br&gt;그에 맞춰 ETF Token 발행하여 사용자에게 보냄" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xik6Tov1Lk0O5G3umFXC-24" value="코인 평가 플랫폼에서 선별한 기준에 맞춰&lt;br&gt;Group화 하여 Active ETF 만듦" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
